@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "2d tutorijal",
+"productVersion": "0.1",
+"dataUrl": "2dgame.data.unityweb",
+"wasmCodeUrl": "2dgame.wasm.code.unityweb",
+"wasmFrameworkUrl": "2dgame.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.2f1"
+}
